@@ -4,6 +4,7 @@ If you want to see this thing simply:
 
 1. download vscode
 2. download liveserver plugin to vscode
-3. mess around with the game
+3. open index.html file and click 'go live' in your code editor
+4. mess around with the game!
 
 That's it!
